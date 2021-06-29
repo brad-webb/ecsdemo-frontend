@@ -1,6 +1,8 @@
 # The manifest for the "ecsdemo-frontend" service.
 # Read the full specification for the "Load Balanced Web Service" type at:
 #  https://aws.github.io/copilot-cli/docs/manifest/lb-web-service/
+#
+#  Test change
 
 # Your service name will be used in naming your resources like log groups, ECS services, etc.
 name: ecsdemo-frontend
